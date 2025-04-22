@@ -5,18 +5,18 @@ Spring Boot REST API By Spring-Data-JPA – Employee Management System, This pro
 Tech Stack:
 
 Java 17+
-Spring Boot
-JPA Repository
-MySQL
-Postman
-Maven
+Spring Boot,
+JPA Repository,,
+MySQL,
+Postman,
+Maven.
 
 Features:
 
-Add new employees (POST)
-Get employee details (GET)
-Update employee information (PUT)
-Delete employees (DELETE)
-Partially update employee data (PATCH)
+Add new employees (POST),
+Get employee details (GET),
+Update employee information (PUT),
+Delete employees (DELETE),
+Partially update employee data (PATCH).
 
 Annotations Used : @Entity, @Table, @Column, @Id, @GeneratedValue, @Service, @Autowired, @Transactional, @RequestMapping, @GetMapping, @PostMapping, @PutMapping, @DeleteMapping, @PatchMapping, @RequestBody.
