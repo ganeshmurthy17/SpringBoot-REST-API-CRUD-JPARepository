@@ -6,7 +6,7 @@ Tech Stack:
 
 Java 17+
 Spring Boot,
-JPA Repository,,
+JPA Repository,
 MySQL,
 Postman,
 Maven.
